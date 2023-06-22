@@ -3,6 +3,6 @@ metadata:
   name: bad-jokes
 
 containers:
-  container-id:bjotd
+  container-id:
     image: .
 
