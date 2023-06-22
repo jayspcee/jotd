@@ -1,0 +1,7 @@
+apiVersion: score.dev/v1b1
+metadata:
+  name: bad-jokes
+
+containers:
+  container-id:bjotd
+    image: .
